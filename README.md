@@ -180,8 +180,8 @@ Autonomous Museum-Hall-Tour-Guide
 
 ## Demonstration Video
 
-[https://github.com/user-attachments/assets/your-video-link](https://github.com/rohitkumarbhati/Autonomous-Museum-Hall-Tour-Guide-Robot/blob/main/video/museum_tour_guide_simulation_2D.mp4)
-
+[Watch the 2D Museum Tour Guide Simulation](video/museum_tour_guide_simulation_2D.mp4)
+[Watch the 3D Museum Tour Guide Simulation](video/museum_tour_guide_simulation_3D.mp4)
 ---
 
 ## Future Work
